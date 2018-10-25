@@ -27,3 +27,4 @@ Do you see the new line?
 
 
 [ ] Yes - [ ] No test [X] MAYBE
+[x] Yes - [x] No
