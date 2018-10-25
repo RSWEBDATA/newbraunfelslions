@@ -26,4 +26,4 @@ Do you see the new line?
 [X] place X in box below
 
 
-[x] Yes - [ ] No
+[x] Yes - [x] No
