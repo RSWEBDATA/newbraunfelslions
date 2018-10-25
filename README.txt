@@ -24,4 +24,3 @@ Credits :
 => Carousel : http://owlgraphic.com/owlcarousel/
 This is a test from Robert
 Did this work
-I just added this line to test the VCS
