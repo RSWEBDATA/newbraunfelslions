@@ -36,10 +36,12 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
+
                     <a class="navbar-brand" href="index.php"><img src="img/logoLongA.png" alt="New Braunfels Lions"/></a>
                 </div>
                 <div class="navbar-collapse collapse ">
                     <ul class="nav navbar-nav">
+                        <li> <a href="https://www.signupgenius.com/go/10C0D4BA4A62BA4F85-white1"><b>White Can Day</b></a></li>
                         <li class="active"><a href="index.php">Home</a></li>
 						<li><a href="about.php">About Us</a></li>
 						<li><a href="newsletters.php">Newsletters</a></li>
@@ -53,41 +55,51 @@
 	</header>
 	<!-- end header -->
 	<section id="featured">
-	 
-	<!-- Slider -->
+
+
+        <!-- Slider -->
         <div id="main-slider" class="flexslider">
             <ul class="slides">
-				<li>
-					<img src="img/slides/howardw.png" alt="Heritage Society Donation 2019" height="900" />
-					<div class="flex-caption">
-						<h3>Our Speaker for today is...</h3>
-						<p>Join us for lunch to see who it is</p>
-					</div>
-				</li>
-              <li>
-                <img src="img/slides/BOTB2019.png" alt="New Members" height="900"/>
-                <div class="flex-caption">
-                    <h3>LET THE BATTLE BEGIN!</h3>
-					<p>We support our LEO family with special functions</p>
-                </div>
-              </li>
-              <li>
-                <img src="img/slides/wurstfest-small.png" alt="" height="900" />
-                <div class="flex-caption">
-                    <h3>Did we mention Wurstfest</h3>
-					<p>A 10 day salute to sausage, beer and fun</p>
-                </div>
-              </li>
-              <li>
-                <img src="img/slides/jackandnewmembers.png" alt="" height="900" />
-                <div class="flex-caption">
-                    <h3>Jack welcomes some new members</h3>
-					<p>Great Job!</p>
-                </div>
-              </li>
+                <li>
+                    <img src="img/slides/TLCJUN2019/20190616_172404.jpg" alt="Heritage Society Donation 2019" height="900" />
+                    <div class="flex-caption">
+                        <h3>Texas Lions Camp</h3>
+                        <p>Pizza Time</p>
+                    </div>
+                </li>
+                <li>
+                    <img src="img/slides/TLCJUN2019/20190616_182109.jpg" alt="New Members" height="900"/>
+                    <div class="flex-caption">
+                        <h3>Who doesn't like pizza!</h3>
+                        <p>So much pizza - and popsicles</p>
+                    </div>
+                </li>
+                <li>
+                    <img src="img/slides/singwithme.jpg" alt="" height="900" />
+                    <div class="flex-caption">
+                        <h3>Sing With Me</h3>
+                        <p>America the Beautiful</p>
+                    </div>
+                </li>
+                <li>
+                    <img src="img/slides/funwiththelions.jpg" alt="" height="900" />
+                    <div class="flex-caption">
+                        <h3>This is what we do a lunch!</h3>
+                        <p>Challenge me - anyone?</p>
+                    </div>
+                </li>
+                <li>
+                    <img src="img/slides/ourcahplains.jpg" alt="" height="900" />
+                    <div class="flex-caption">
+                        <h3>Our Chaplains</h3>
+                        <p>Come pray with Us</p>
+                    </div>
+                </li>
             </ul>
         </div>
-	<!-- end slider -->
+        <!-- end slider -->
+
+
  
 	</section>
 
@@ -95,9 +107,10 @@
         <div class="container">
             <div class="col-md-6">
                 <div class="container">
-                    <h1 style="text-align: center;">Battle of the Bands at Freiheit Country Store</h1>
-                    <h1 style="text-align: center;"> <a href="img/LEOS/BOTB2019.pdf" data-toggle="tooltip" title="Come join the fun on April 25, 2019">
-                            More Information Here</a></h1>
+                    <h1 style="text-align: center;">Summer is here - drink lot's of water!</h1>
+                    <h1 style="text-align: center;"> <a href="#" data-toggle="tooltip" title="Come join the fun on April 25, 2019">
+                            Join us for lunch - first and third Thursday of each month.</a></h1>
+
                 </div>
             </div>
         </div>
@@ -108,17 +121,15 @@
 			<div class="row">
 
                 <div class="col-lg-5 col-md-5 col-sm-5">
-                    <img src="img/Joker.jpg" alt="I got the joker" />
-                </div>
+                    <img src="img/flag.png" alt="Memorial Day" />
 
-                <div class="col-lg-7 col-md-7 col-sm-7">
-                    <a href="https://www.signupgenius.com/go/10C0D4BA4A62BA4F85-white1"><img src="img/whiteCaneDay.png"></a>
+
                 </div>
 
 				<div class="col-lg-10 col-md-10 col-sm-10">
                     <div>
-					    <h2>Braunfels Noon Lions Club</h2><br>
-                        <h3>Ask me about the joker</h3>
+					    <h2>We Remember</h2><br>
+                         <h3>New Braunfels Noon Lions</h3>
                             <p>Lions are changing the world one community at a time, by addressing needs at home and around the globe. We are 1.4 million men and women who believe that kindness matters. And when we work
                                 together, we can achieve bigger goals. Our mission is to create and foster a spirit of understanding among all people for humanitarian needs by providing voluntary services through community
                                 involvement and international cooperation.</p>
@@ -175,12 +186,13 @@
     <section class="contactInfo">
         <div class="container">
             <div class="col-md-6">
-                <div class="container">
+                <div class="container aligncenter">
 
-                    <h1>Award Ceremonies - Celebrating with our LEO Families
+                    <h1>WE SERVE
+
                         <ul>
-                            <li><p><h2>New Braunfels HS April 29 at 6:30pm</h2></p></li>
-                            <li><p><h2>Canyon HS - May 23 at 6:00pm</h2></p></li>
+<!--                            <li><p><h2>New Braunfels HS April 29 at 6:30pm</h2></p></li>-->
+<!--                            <li><p><h2>Canyon HS - May 23 at 6:00pm</h2></p></li>-->
                         </ul></h1>
                 </div>
             </div>
@@ -248,28 +260,43 @@
 <div class="testimonial-area">
     <div class="testimonial-solid">
         <div class="container">
-			<div class="col-md-6">
-				<div class="col-md-6" align="center">
-					<h2 style="color: #FFFFFF;">Sign Up Genuis</h2>
-					<p style="color: #FFFFFF;">Sign up for upcoming events.  Let us know your coming.</p>
-				</div>
-				<div class="col-md-6" align="center">
-					<!--<div class="appLogosIndex"><img src="img/sugTemp.png" alt="Sign Up Genuis" style="width: 100%;"></div>-->
-					<a href="https://www.signupgenius.com/index.cfm?go=c.SignUpSearch&eid=08C3CFD7F5CDF960&cs=09CBBADC8FBB8B627B0A64735BCF9BCE&sortby=l.title" target="_blank">
-						<img src="https://www.signupgenius.com/images/sign-up-now1.gif" width="150" height="90" border="0" alt="Sign Up!" style="margin-top: 30px;">
-					</a>
-				</div>
-			</div>
-			<div class="col-md-6" align="center" style="color: #FFFFFF;">
-				<div class="col-md-6">
+
+
+<!--			<div class="col-md-3">-->
+<!--				<div class="col-md-3" align="center">-->
+<!--                    <p style="color: #FFFFFF;">White Cane Day Sign-Up</p>-->
+<!--				</div>-->
+<!--				<div class="col-md-3" align="center">-->
+<!---->
+<!--                    <a class="appLogosIndex" href="https://www.signupgenius.com/go/10C0D4BA4A62BA4F85-white1"><img src="img/whiteCaneDay.png" width="120"/></a><br>-->
+<!---->
+<!--                </div>-->
+<!--			</div>-->
+			<div class="col-md-5" align="center" style="color: #FFFFFF;">
+				<div class="col-md-5">
 					<h2 style="color: #FFFFFF;">Donate On-Line</h2>
 					<p style="color: #FFFFFF;">We now offer on-line Donations through PayPal</p>
 				</div>
-				<div class="col-md-6" align="center">
+				<div class="col-md-5" align="center">
 					<div class="appLogosIndex"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RTFB2L3ZKYMNW" target="_blank">
 						<img src="img/paypal_donate.png" alt="PayPal Link" style="width: 100%;"></div>
 				</div>
 			</div>
+
+            <div class="col-md-4">
+                <div class="col-md-4" align="center">
+                    <h2 style="color: #FFFFFF;">Sign Up Genuis</h2>
+                    <p style="color: #FFFFFF;">Sign up for upcoming events.  Let us know your coming.</p>
+                </div>
+                <div class="col-md-4" align="center">
+                    <!--<div class="appLogosIndex"><img src="img/sugTemp.png" alt="Sign Up Genuis" style="width: 100%;"></div>-->
+                    <a href="https://www.signupgenius.com/index.cfm?go=c.SignUpSearch&eid=08C3CFD7F5CDF960&cs=09CBBADC8FBB8B627B0A64735BCF9BCE&sortby=l.title" target="_blank">
+                        <img src="https://www.signupgenius.com/images/sign-up-now1.gif" width="150" height="90" border="0" alt="Sign Up!" style="margin-top: 30px;">
+                    </a>
+                </div>
+            </div>
+
+
             <!--<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">-->
                 <!--<ol class="carousel-indicators">-->
                     <!--<li data-Delight="#carousel-example-generic" data-slide-to="0" class="">-->

@@ -75,7 +75,7 @@
 			<div class="row sHide">
 				<div class="col-md-12">
 					<h3>Our Latest Newsletter</h3>
-					<object data="newsletters/201904.pdf" type="application/pdf" class="objScroll" width="95%" height="900px" style="border-bottom: #484c4f solid 2px">alt : <a href="newsletters/201903.pdf">Latest Newsletter</a> </object>
+					<object data="newsletters/201906.pdf" type="application/pdf" class="objScroll" width="95%" height="900px" style="border-bottom: #484c4f solid 2px">alt : <a href="newsletters/201903.pdf">Latest Newsletter</a> </object>
 				</div>
 			</div>
 			<div class="row">
@@ -85,12 +85,17 @@
 			</div>
 			<div class="row"><b><u>2019</u></b><br>
 				<div class="col-md-3">
-                    <a href="newsletters/201904.pdf" target="_blank">April 2019</a><br>
-					<a href="newsletters/201903.pdf" target="_blank">March 2019</a><br>
-					<a href="newsletters/201902.pdf" target="_blank">February 2019</a><br>
-					<a href="newsletters/201901.pdf" target="_blank">January 2019</a>
+                    <a href="newsletters/201906.pdf" target="_blank">June 2019</a><br>
+					<a href="newsletters/201905.pdf" target="_blank">May 2019</a>
 
 				</div>
+                <div class="col-md-3">
+                    <a href="newsletters/201904.pdf" target="_blank">April 2019</a><br>
+                    <a href="newsletters/201903.pdf" target="_blank">March 2019</a><br>
+                    <a href="newsletters/201902.pdf" target="_blank">February 2019</a><br>
+                    <a href="newsletters/201901.pdf" target="_blank">January 2019</a>
+
+                </div>
 			</div>
 			<div class="row"><b><u>Past Years</u></b><br>
 				<div class="col-md-3">
