@@ -236,15 +236,15 @@
 						</div>
 						<!--Change names - REA 12OCT2018-->
 						<p>
-							<span style="font-weight: bold;">Brandon Mund</span> - President <br/>
-							<span style="font-weight: bold;">David Simmons</span> - First Vice President <br/>
-							<span style="font-weight: bold;">Dolly Williams</span> - Second Vice President <br/>
-							<span style="font-weight: bold;">Robert E Armstrong</span> - Third Vice President <br/>
+							<span style="font-weight: bold;">David Simmons</span> - President <br/>
+							<span style="font-weight: bold;">Robert Armstrong</span> - First Vice President <br/>
+							<span style="font-weight: bold;">Stephen Brockman</span> - Second Vice President <br/>
+							<span style="font-weight: bold;">Delia Milam</span> - Third Vice President <br/>
 							<span style="font-weight: bold;">Doreen Fisher</span> - Secretary <br/>
 							<span style="font-weight: bold;">Craig Zgabay</span> - Treasurer <br/>
 							<span style="font-weight: bold;">Dave Heefner</span> - Lion Tamer<br/>
 							<span style="font-weight: bold;">Lee Ambrosino</span> - Chariman Membership Committe, PP, Zone 5A Chair<br/>
-							<span style="font-weight: bold;">Jack Morgan</span> - Immediate Past President<br/>
+							<span style="font-weight: bold;">Brandon Mund</span> - Immediate Past President<br/>
 							<span style="font-weight: bold;">Dennis Heitkamp</span> - PDD, PCC<br/>
 						</p>
 					</div>
@@ -253,10 +253,10 @@
 							<h3><span>Directors</span></h3>
 						</div>
 						<p>
-							<span style="font-weight: bold;">Ginny Rotge</span> - One Year Director <br/>
-							<span style="font-weight: bold;">Jim Pope</span> - One Year Director <br/>
-							<span style="font-weight: bold;">Howard WeLiver</span> - Two Year Director <br/>
-							<span style="font-weight: bold;">Stephen Brockman</span> - Two Year Director <br/>
+							<span style="font-weight: bold;">Dwight Edens</span> - One Year Director <br/>
+							<span style="font-weight: bold;">Howard Weliver</span> - One Year Director <br/>
+							<span style="font-weight: bold;">Vanessa Dean</span> - Two Year Director <br/>
+							<span style="font-weight: bold;">Brooks Wilson</span> - Two Year Director <br/>
 						</p>
 					</div>
 					<div class="col-md-4">
@@ -266,11 +266,12 @@
 						<p>
 							<span style="font-weight: bold;">Skip Stem</span> - Vision Screening <br/>
 							<span style="font-weight: bold;">Mike Pfeuffer</span> - Sight Conservation<br/>
-							<span style="font-weight: bold;">David Simmons</span> - Care Committee<br/>
-							<span style="font-weight: bold;">Delia Saucedo</span> - Tail Twister <br/>
-							<span style="font-weight: bold;">Vernell Martinez</span> - Historian<br/>
-							<span style="font-weight: bold;">Robert Armstrong</span> - Leo Advisor<br/>
-							<span style="font-weight: bold;">Bert Childs</span> - Newsletter Editor<br/>
+							<span style="font-weight: bold;">Doreen Fisher</span> - Care Committee<br/>
+							<span style="font-weight: bold;">Heather Orsak</span> - Tail Twister <br/>
+							<span style="font-weight: bold;">Winki Smith</span> - Historian<br/>
+							<span style="font-weight: bold;">Cameron Bradfute</span> - Leo Advisor<br/>
+							<span style="font-weight: bold;">Heather Orsak</span> - Newsletter Editor<br/>
+                            <span style="font-weight: bold;">Michael Plumeyer</span> - Marketing/Comms Chair<br>
 						</p>
 					</div>
 				</div>

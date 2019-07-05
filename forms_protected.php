@@ -66,7 +66,7 @@ include "includes/password_protect.php";
 		<div class="container content">
 			<div class="row">
 				<div class="col-md-12">
-					<h3><a href="secureDocs/lionsdirectory.pdf" target="_blank">Directory - Click Here</a></h3>
+					<h3><a href="secureDocs/lionsdirectory.pdf" target="_blank">Directory (rev date 07-01-2019) - Click Here</a></h3>
 					<p>New Braunfels Noon Lions Directory - This directory will be updated on a regular basis</p>
 				</div>
 			</div>
