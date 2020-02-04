@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="885f05ff-2416-48b3-893b-3b3d4c678cb0" name="nblions" url="http://www.newbraunfelslions.com">
-        <fileTransfer host="132.148.253.249" port="21" rootFolder="/rswebdata/newbraunfelslions.com">
+        <fileTransfer host="132.148.253.249" port="21" rootFolder="/rswebdata.net/clients/newbraunfelslions.com">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

@@ -111,11 +111,11 @@
 
 			<div class="row">
 				<div class="col-md-12">
-					<h3><a href="formDownloads/2019_2020_GRANT_Application.pdf" target="_blank">Grant Request Information</a></h3>
+					<h3><a href="formDownloads/2020_2021_GRANT_Application_Information%20.pdf" target="_blank">Grant Request Information</a></h3>
 					<p>The Grants Committee of the New Braunfels Noon Lions Club will meet every January, to review the grants budget for the next fiscal year.
 						During these meetings, consideration shall be given to the needs of worthy causes that seek our assistance.  This notice is being provided
 						so that you may submit to us any donation request, which your organization would like the Grants Committee to consider.
-						Click <a href="formDownloads/2019_2020_GRANT_Application.pdf" target="_blank">here</a> to download the Application.</p>
+						Click <a href="formDownloads/2020_2021_GRANT_Application_Information%20.pdf" target="_blank">here</a> to download the Application.</p>
 				</div>
 			</div>
 

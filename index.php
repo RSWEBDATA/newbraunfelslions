@@ -61,74 +61,100 @@
         <div id="main-slider" class="flexslider">
             <ul class="slides">
                 <li>
-                    <img src="img/slides/TLCJUN2019/20190616_172404.jpg" alt="Heritage Society Donation 2019" height="900" />
+                    <img src="img/slides/happynewyear2020.jpg" alt="JobWellDone" height="900" />
                     <div class="flex-caption">
-                        <h3>Texas Lions Camp</h3>
-                        <p>Pizza Time</p>
+                        <h3>Happy New Year</h3>
+                        <p>Our Vision is 2020 this year</p>
                     </div>
                 </li>
                 <li>
-                    <img src="img/slides/TLCJUN2019/20190616_182109.jpg" alt="New Members" height="900"/>
+                    <img src="img/slides/usslexington.png" alt="New Members" height="900"/>
                     <div class="flex-caption">
-                        <h3>Who doesn't like pizza!</h3>
-                        <p>So much pizza - and popsicles</p>
+                        <h3>Time for a Field Trip</h3>
+                        <p>LEOs and Lions go to the USS Lexington in Feb</p>
                     </div>
                 </li>
                 <li>
-                    <img src="img/slides/singwithme.jpg" alt="" height="900" />
+                    <img src="img/slides/Wurstfest_past.jpg" alt="" height="900" />
                     <div class="flex-caption">
-                        <h3>Sing With Me</h3>
-                        <p>America the Beautiful</p>
+                        <h3>We Remember</h3>
+                        <p>No Looking Back - Time to Re-Build</p>
                     </div>
                 </li>
                 <li>
-                    <img src="img/slides/funwiththelions.jpg" alt="" height="900" />
+                    <img src="img/slides/communitygiving.jpg" alt="" height="900" />
                     <div class="flex-caption">
-                        <h3>This is what we do a lunch!</h3>
-                        <p>Challenge me - anyone?</p>
+                        <h3>This is what it is all about!</h3>
+                        <p>Supporting our Community</p>
                     </div>
                 </li>
                 <li>
-                    <img src="img/slides/ourcahplains.jpg" alt="" height="900" />
+                    <img src="img/slides/VisionScreening2019.jpg" alt="" height="900" />
                     <div class="flex-caption">
-                        <h3>Our Chaplains</h3>
-                        <p>Come pray with Us</p>
+                        <h3>Vision Screening</h3>
+                        <p>Helping Children with Vision Screening</p>
                     </div>
                 </li>
+                <li>
+                    <img src="img/slides/PresidentAndVice1.jpg" alt="" height="900" />
+                    <div class="flex-caption">
+                        <h3>What a team!</h3>
+                        <p>We are here to SERVE</p>
+                    </div>
+                </li>
+                <li>
+                    <img src="img/slides/CommunitySupport1.jpg" alt="" height="900" />
+                    <div class="flex-caption">
+                        <h3>Supporting Our Commuinity</h3>
+                        <p>This is what we are her for</p>
+                    </div>
+                </li>
+
             </ul>
         </div>
         <!-- end slider -->
-
-
- 
 	</section>
 
-    <section class="alert-warning">
-        <div class="container">
-            <div class="col-md-6">
-                <div class="container">
-                    <h1 style="text-align: center;">Summer is here - drink lot's of water!</h1>
-                    <h1 style="text-align: center;"> <a href="#" data-toggle="tooltip" title="Come join the fun on April 25, 2019">
-                            Join us for lunch - first and third Thursday of each month.</a></h1>
 
-                </div>
-            </div>
-        </div>
-    </section>
+<!--*********************************************************************-->
+<!--    THIS IS WHERE TO POST A MESSAGE JUST UNDER THE CAROUSEL OF IMAGES-->
+<!--*********************************************************************-->
+<!--    <section class="alert-warning">-->
+<!--        <div class="container">-->
+<!--            <div class="col-md-6">-->
+<!--                <div class="container">-->
+<!--                    <h1 style="text-align: center;">Summer is on it's way out - Time to break out the jackets!</h1>-->
+<!--                    <h1 style="text-align: center;"> <a href="#" data-toggle="tooltip" title="New Braunfels Lions Club">-->
+<!--                            </a></h1>-->
+<!---->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </section>-->
 		<section id="content">
 	
 	<div class="container">
 			<div class="row">
 
-                <div class="col-lg-5 col-md-5 col-sm-5">
+                <div class="col-lg-5 col-md-5 col-sm-5" align="center" >
                     <img src="img/flag.png" alt="Memorial Day" />
-
+                    <h2 align="center">We Remember!</h2>
 
                 </div>
 
-				<div class="col-lg-10 col-md-10 col-sm-10">
+                <div class="col-lg-5 col-md-5 col-sm-5" align="center" >
+                    <a href="https://nbisdphotos.smugmug.com/CampusPhotos/Seele-Elementary/2019-2020-School-Year/Lions-Club-Vision-Hearing-Testing-09-24-19/">
+                    <img src="img/slides/LionsClubVisionHearingTestingJimPope.jpg" alt="Memorial Day" />
+
+                        <h2 align="center">Lions Clubs screen students for vision and hearing problems!</h2></a>
+
+                </div>
+
+
+
+                <div class="col-lg-10 col-md-10 col-sm-10">
                     <div>
-					    <h2>We Remember</h2><br>
+
                          <h3>New Braunfels Noon Lions</h3>
                             <p>Lions are changing the world one community at a time, by addressing needs at home and around the globe. We are 1.4 million men and women who believe that kindness matters. And when we work
                                 together, we can achieve bigger goals. Our mission is to create and foster a spirit of understanding among all people for humanitarian needs by providing voluntary services through community
@@ -143,36 +169,16 @@
 							265 W. San Antonio St. <br>
 							New Braunfels, TX 78130</address>
 						<p>Every 1st & 3rd Thursday at 12:00 Noon</p>
+                        <p></p>
+                        <p><b>Note: </b>We will changing location, begingning in January 2020</p>
+                        We will meet at:
+                        <address><b>Columbus Club<br>
+                            111 Landa St<br>
+                            New Braunfels, TX 78130<br>
+                            Phone: 830-625-2279</b>
+                        </address>
 						</p>
 
-
-
-<!--    					<div class="row">-->
-<!--    						<div class="col-lg-4 col-md-4 col-sm-4">-->
-<!--    							<ul class="list list-3">-->
-<!--    								<li>Designing</li>-->
-<!--                                    <li>Development</li>-->
-<!--                                    <li>Web Services</li>-->
-<!--                                    <li>Hosting</li>-->
-<!--    							</ul>-->
-<!--                            </div>-->
-<!--                            <div class="col-lg-4 col-md-4 col-sm-4">-->
-<!--    							<ul class="list list-3">-->
-<!--    								<li>Copy writing</li>-->
-<!--                                    <li>On-line Shopping</li>-->
-<!--                                    <li>SAP</li>-->
-<!--                                    <li>Testing</li>-->
-<!--    							</ul>-->
-<!--                            </div>-->
-<!--                            <div class="col-lg-4 col-md-4 col-sm-4">-->
-<!--    							<ul class="list list-3">-->
-<!--    								<li>Mobile</li>-->
-<!--                                    <li>Database</li>-->
-<!--                                    <li>User Experience</li>-->
-<!--                                    <li>Product</li>-->
-<!--    							</ul>-->
-<!--    						</div>-->
-<!--    					</div>-->
 
 
 
@@ -188,7 +194,7 @@
             <div class="col-md-6">
                 <div class="container aligncenter">
 
-                    <h1>WE SERVE
+                    <h1>NEW BRAUNFELS LIONS - WE SERVE
 
                         <ul>
 <!--                            <li><p><h2>New Braunfels HS April 29 at 6:30pm</h2></p></li>-->
@@ -200,62 +206,7 @@
     </section>
 	
 	
-	<!--<section id="service">-->
-            <!--<div class="container"> -->
-				<!--<div class="row">-->
-					<!--<div class="col-md-12">-->
-						<!--<div class="block-bottom">-->
-							<!--<div class="service-tab">-->
-								  <!--&lt;!&ndash; Nav tabs &ndash;&gt;-->
-								  <!--<ul class="badhon-tab" role="tablist">-->
-									<!--<li class=""><a href="#home" aria-controls="home" role="tab" data-toggle="tab">-->
-									<!--<i class="fa fa-bell-o"></i>-->
-									<!--Designing-->
-									<!--</a></li>-->
-									<!--<li class="active"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">-->
-									<!--<i class="fa fa-html5"></i>-->
-									<!--Web Development-->
-									<!--</a></li>-->
-									<!--<li><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">-->
-									<!--<i class="fa fa-code"></i>-->
-									<!--Mobile Web-->
-									<!--</a></li>-->
-									<!--<li><a href="#settings" aria-controls="settings" role="tab" data-toggle="tab">-->
-									<!--<i class="fa fa-compress"></i>-->
-									<!--Product Dev-->
-									<!--</a></li> -->
-								  <!--</ul>-->
 
-								  <!--&lt;!&ndash; Tab panes &ndash;&gt;-->
-								  <!--<div class="tab-content edit-tab-content">-->
-									<!--<div class="tab-pane edit-tab" id="home">-->
-										<!--<h3>Awesome Web Design</h3>-->
-										<!--<p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur. <br><br>Sed ut perspiciaatis iste natus error sit voluptatem probably haven't heard of them accusamus.</p>-->
-								<!--<p>Voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo quasi architecto beatae vitae dicta sunt explicabo.</p>-->
-									<!--</div>-->
-									<!--<div class="tab-pane edit-tab active" id="profile">-->
-										<!--<h3>Amazing Web Development</h3>-->
-										<!--<p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur. <br><br>Sed ut perspiciaatis iste natus error sit voluptatem probably haven't heard of them accusamus.</p>-->
-								<!--<p>Voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo quasi architecto beatae vitae dicta sunt explicabo.</p>-->
-									<!--</div>-->
-									<!--<div class="tab-pane edit-tab" id="messages">-->
-										<!--<h3>Fully Responsive Web</h3>-->
-										<!--<p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur. <br><br>Sed ut perspiciaatis iste natus error sit voluptatem probably haven't heard of them accusamus.</p>-->
-								<!--<p>Voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo quasi architecto beatae vitae dicta sunt explicabo.</p>-->
-									<!--</div>-->
-									<!--<div class="tab-pane edit-tab" id="settings">-->
-										<!--<h3>Well Build Product Dev</h3>-->
-										<!--<p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur. <br><br>Sed ut perspiciaatis iste natus error sit voluptatem probably haven't heard of them accusamus.</p>-->
-								<!--<p>Voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo quasi architecto beatae vitae dicta sunt explicabo.</p>-->
-									<!--</div> -->
-								  <!--</div>-->
-							<!--</div>-->
-						<!--</div>-->
-					<!--</div>&lt;!&ndash; .col-md-12 close &ndash;&gt;-->
-				<!--</div>&lt;!&ndash; row close &ndash;&gt;-->
-            <!--</div>&lt;!&ndash; .container close &ndash;&gt;-->
-        <!--</section>-->
-	
 	
 <div class="testimonial-area">
     <div class="testimonial-solid">
@@ -272,28 +223,34 @@
 <!---->
 <!--                </div>-->
 <!--			</div>-->
-			<div class="col-md-5" align="center" style="color: #FFFFFF;">
-				<div class="col-md-5">
-					<h2 style="color: #FFFFFF;">Donate On-Line</h2>
-					<p style="color: #FFFFFF;">We now offer on-line Donations through PayPal</p>
-				</div>
-				<div class="col-md-5" align="center">
-					<div class="appLogosIndex"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RTFB2L3ZKYMNW" target="_blank">
-						<img src="img/paypal_donate.png" alt="PayPal Link" style="width: 100%;"></div>
-				</div>
-			</div>
 
-            <div class="col-md-4">
-                <div class="col-md-4" align="center">
-                    <h2 style="color: #FFFFFF;">Sign Up Genuis</h2>
-                    <p style="color: #FFFFFF;">Sign up for upcoming events.  Let us know your coming.</p>
-                </div>
-                <div class="col-md-4" align="center">
+
+            <div class="col-md-6">
+<!--                <div class="col-md-4" align="center">-->
+<!--                    <h2 style="color: #FFFFFF;">Sign Up Genius</h2>-->
+<!--                    <p style="color: #FFFFFF;">Sign up for upcoming events.  Let us know your coming.</p>-->
+<!--                </div>-->
+                <div class="col-md-6" align="center">
                     <!--<div class="appLogosIndex"><img src="img/sugTemp.png" alt="Sign Up Genuis" style="width: 100%;"></div>-->
                     <a href="https://www.signupgenius.com/index.cfm?go=c.SignUpSearch&eid=08C3CFD7F5CDF960&cs=09CBBADC8FBB8B627B0A64735BCF9BCE&sortby=l.title" target="_blank">
                         <img src="https://www.signupgenius.com/images/sign-up-now1.gif" width="150" height="90" border="0" alt="Sign Up!" style="margin-top: 30px;">
+                        <p style="color: #FFFFFF;">Sign up for upcoming events.  Let us know your coming.</p>
                     </a>
                 </div>
+            </div>
+
+
+            <div class="col-md-6" align="center" style="color: #FFFFFF;">
+<!--                <div class="col-md-5">-->
+<!--                    <h2 style="color: #FFFFFF;">Donate On-Line</h2>-->
+<!--                    <p style="color: #FFFFFF;">We now offer on-line Donations through PayPal</p>-->
+<!--                </div>-->
+                <div class="col-md-6" align="center">
+                    <div class="appLogosIndex"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RTFB2L3ZKYMNW" target="_blank">
+                        <img src="img/paypal_donate.png" alt="PayPal Link" style="width: 100%;"></div>
+                    <p style="color: #FFFFFF;">We now offer on-line Donations through PayPal</p>
+                </div>
+
             </div>
 
 
